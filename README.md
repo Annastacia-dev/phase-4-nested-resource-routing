@@ -322,3 +322,8 @@ Before you move on, make sure you can answer the following questions:
 ## Resources
 
 - [Routing: Nested Resources](https://guides.rubyonrails.org/routing.html#nested-resources)
+
+
+
+
+
